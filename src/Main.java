@@ -6,7 +6,6 @@ public class Main {
         Book titel= new Book ("Три мушкетера ", "Собачье сердце", 1844, 1925);
         titel.year=1845;
         titel.year2=1922;
-
         Author name= new Author("Дюма", "Булгаков", "Александр", "Михаил");
 
         System.out.println(titel.getName()+ " "+ titel.getYear()+" "+name.getName() + " "+ name.getSurname());
