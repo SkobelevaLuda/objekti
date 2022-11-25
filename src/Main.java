@@ -14,6 +14,9 @@ public class Main {
         threeMushketera.setYear(1844);
         System.out.println(threeMushketera.getTitel() + " " + threeMushketera.getAuthorName() + " "
                 + threeMushketera.getAuthorSurname() + " " + threeMushketera.getYear());
+        System.out.println(threeMushketera);
+        System.out.println(heartOfDog);
+
 
     }
 }
